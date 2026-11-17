@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "admin",
+    "active": true
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "role": "editor",
+    "active": true
+  },
+  {
+    "name": "Carol Diaz",
+    "email": "carol.diaz@example.com",
+    "role": "viewer",
+    "active": false
+  },
+  {
+    "name": "Dmitri Volkov",
+    "email": "dmitri.volkov@example.com",
+    "role": "editor",
+    "active": true
+  }
+]
